@@ -1,0 +1,1511 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 10
+/Kids [ 3 0 R 11 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F1-0 6 0 R
+/F2 7 0 R
+/F2-0 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4378
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.101961 .360784 .419608 rg
+n 0 803.622 595.2756 38.26772 re f*
+.878431 .482353 .164706 rg
+n 0 803.622 12.75591 38.26772 re f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 25.51181 817.7953 Tm (WhatsNext Vision Motors CRM  |  Phase 2 \227 Development & Implementation) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 477.5771 817.7953 Tm (Automotive CRM System) Tj T* ET
+.101961 .360784 .419608 RG
+.5 w
+n 28.34646 31.1811 m 566.9291 31.1811 l S
+.333333 .333333 .333333 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 28.34646 17.00787 Tm (Confidential \226 WhatsNext Vision Motors CRM) Tj T* ET
+BT 1 0 0 1 543.1616 17.00787 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 731.0079 cm
+Q
+q
+1 0 0 1 -184.252 640.0079 cm
+q
+.101961 .360784 .419608 rg
+n 0 91 963.7795 -91 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 20 41 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 22 Tf 28 TL (WhatsNext Vision Motors CRM) Tj T* ET
+Q
+Q
+BT 1 0 0 1 501.8898 43 Tm  T* ET
+q
+1 0 0 1 20 22 cm
+q
+BT 1 0 0 1 0 -1 Tm 12 TL /F2 13 Tf .878431 .482353 .164706 rg (Automotive Sales & Order Management System) Tj T* ET
+Q
+Q
+BT 1 0 0 1 501.8898 5 Tm  T* ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 630.0079 cm
+Q
+q
+1 0 0 1 56.69291 600.0079 cm
+q
+.878431 .482353 .164706 rg
+n 0 30 481.8898 -30 re f*
+1 1 1 rg
+BT /F2 11 Tf 12 TL ET
+BT 1 0 0 1 110.4574 10 Tm (PHASE 2 \227 DEVELOPMENT & IMPLEMENTATION) Tj T* ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 584.0079 cm
+Q
+q
+1 0 0 1 56.69291 536.0079 cm
+q
+.909804 .956863 .964706 rg
+n 0 48 481.8898 -48 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+BT 1 0 0 1 0 6 Tm 44.22822 0 Td 12 TL /F2 18 Tf .101961 .360784 .419608 rg (12) Tj /F1 10 Tf 0 0 0 rg  T* -5.332 0 Td /F1 8 Tf .333333 .333333 .333333 rg (Sections) Tj T* -38.89622 0 Td ET
+Q
+Q
+q
+1 0 0 1 126.4724 12 cm
+q
+BT 1 0 0 1 0 6 Tm 49.23222 0 Td 12 TL /F2 18 Tf .101961 .360784 .419608 rg (4) Tj /F1 10 Tf 0 0 0 rg  T* -23.448 0 Td /F1 8 Tf .333333 .333333 .333333 rg (Custom Objects) Tj T* -25.78422 0 Td ET
+Q
+Q
+q
+1 0 0 1 246.9449 12 cm
+q
+BT 1 0 0 1 0 6 Tm 33.73422 0 Td 12 TL /F2 18 Tf .101961 .360784 .419608 rg (Flow) Tj /F1 10 Tf 0 0 0 rg  T* .27 0 Td /F1 8 Tf .333333 .333333 .333333 rg (Automation) Tj T* -34.00422 0 Td ET
+Q
+Q
+q
+1 0 0 1 367.4173 12 cm
+q
+BT 1 0 0 1 0 6 Tm 8.71422 0 Td 12 TL /F2 18 Tf .101961 .360784 .419608 rg (Salesforce) Tj /F1 10 Tf 0 0 0 rg  T* 30.63 0 Td /F1 8 Tf .333333 .333333 .333333 rg (Platform) Tj T* -39.34422 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 48 m 481.8898 48 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 48 l S
+n 481.8898 0 m 481.8898 48 l S
+n 120.4724 0 m 120.4724 48 l S
+n 240.9449 0 m 240.9449 48 l S
+n 361.4173 0 m 361.4173 48 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 516.0079 cm
+Q
+q
+1 0 0 1 70.86614 371.0079 cm
+q
+.101961 .360784 .419608 rg
+n 0 145 107.7165 -145 re f*
+.909804 .956863 .964706 rg
+n 107.7165 145 345.8268 -145 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 123 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 9 Tf 15 TL (Team Lead) Tj T* ET
+Q
+Q
+q
+1 0 0 1 115.7165 123 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 6 Tm /F1 9 Tf 15 TL (SRI HARI G) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 94 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 9 Tf 15 TL (Member) Tj T* ET
+Q
+Q
+q
+1 0 0 1 115.7165 94 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 6 Tm /F1 9 Tf 15 TL (SHANKARAN V) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 65 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 9 Tf 15 TL (Platform) Tj T* ET
+Q
+Q
+q
+1 0 0 1 115.7165 65 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 6 Tm /F1 9 Tf 15 TL (Salesforce CRM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 36 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 9 Tf 15 TL (Focus) Tj T* ET
+Q
+Q
+q
+1 0 0 1 115.7165 36 cm
+q
+BT 1 0 0 1 0 6 Tm 15 TL /F1 9 Tf .109804 .109804 .109804 rg (CRM Automation & Order Management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 9 Tf 15 TL (Total Epics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 115.7165 7 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 6 Tm /F1 9 Tf 15 TL (8 | Total Tasks: 16 | Subtasks: 0) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 145 m 453.5433 145 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 145 l S
+n 453.5433 0 m 453.5433 145 l S
+n 0 116 m 453.5433 116 l S
+n 0 87 m 453.5433 87 l S
+n 0 58 m 453.5433 58 l S
+n 0 29 m 453.5433 29 l S
+n 107.7165 0 m 107.7165 145 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 680 612 120 re
+f*
+0 0.4 0.4 rg
+BT
+/F2-0 20 Tf
+24 TL
+ET
+BT
+1 0 0 1 120.99 735 Tm
+(CRM Automation \046 Order Management) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+5 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Symbol
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2697
+>>
+stream
+Gb!Sm>BAQ-&q9SYfVaa*a2T:<Hf*Pq3Km4l1l9Z+RHY)J5n[Y`6;V\Zdi[IQJ2bl?V=D&KNFRejG(IVfDf7H;#Cj8Z9QP`V(@^3?*4UO<)S!gM=M09u`RWQj`Z6***1.[)@H7I\nCEGhhHUeo*'#VZKE+71R0``kgk^e0$jG,nf&'i>#aJXopEJSm/he>kTbC,M\R;-"a*anI-K,IB)Zp8^`]f/HXaTu3[p'G.o/Vjk6p,!gN,("c\Gg!-2#:;LXb#Ap<b2<HPYG:rGkLSCJA2)5gEp*UJ3S_niO.IaXK6GF2"2Nuc)XOdFjcrBIphdM(>lTZ&m,b!'!pN$.:*iH57Ap:r4$Ob]PQ)(RajVCF<gD)[&9#bpqJ?A_ZSmE,3F3&LELYm46;QV*s=,1"C1gPK25Rm2?.(\h;QEUm5*>>^t>c?VE8H]BP`/u(2L<E/6%cE<WP;`lnMJq`4kEoiUb10^EjhPJ#)T83S155Jd#b-Tc9K=7BW4lP_2I=$]Z"6*cnh5qAg5Z-]T1"2>2YN5eVE<fBG9Qq03oJrZh*bbI63eSfq`#7nt,3a:g`MQoUiR"bG@>__4"Kd/pIR^n7Blc^?$5@'[T&U8c>d/tERK"NJ*pGZFfAlNKseY]*@OXgu**0<S)Mb73cHb<#'TrRZt0K[n0(.cZCY_o#M!jp_f%=],rS"kr_YNAYiVk]L%kpf%u&#mm\W=a%U,_JBn]q'jE2aeZ5so6!r2R7`G`1K\I5U3<pgc#tV:5o+fIQ\@.^b@Xi35e6e:dg"6()SI(\aFVSnW2&!a"/"KE9;U]!RpFi!'tsF&e;Yq9m-#_WTanalBAn-2ZT&"k3#6Iknd+s<-O/1@b1Zi59J_7NlC<a(X^"*b2,n]iE8BG/4hBr7h.[!.eWr:^X`3lV??Ng6l,KGXKL:/%%^-gV(Ct)H'Ice-e"EqH6%5kFXX$*;^c$EsH):q5fupKi1C7X+64mJ%6rA"2q@^_PnMK6S'YZR(#?i>UeV9HON7MQpR,#jeUt[0<A?iu,l!:lS6mH.%HEC(64>f2Hi"7/m42-7s8ai?X,;(9Km.&#[.T=U.d'1R!.e0lI'"t*\.;<3Xqcr-,L!mMDnC(g=\2gsJqLgqVT$/st+gm*2^0bO7K>'&KR[g-(oWC[\P;FSP5`\^0"E9o3Ah:)2L*tc#SeO8.?//[f2qDckJ@aOr=F^/c/^Wh%q"Y)+l3I<V1W>I=;9]!*V%rM2Vj4kkYl$o*nm$)&L"c\m(@ZrW^l?$6i9SjZU7R1WM`?Wh3.b?nSCWQC'8quDgm+(`=a)9H\7;s"qJ*JE(-g/rcI\[RE:EPOd7$!pp%'=EFlan^q0fq:8REN"=;&[E9,[5/<Pb^oLRh]"78FIY@eE'GrgN3(`l<qW"Sj_P>0LN^J@A\*l`sW75)]B]_pIfdUW/<\,0[m\#H,2!l;98Hli_/,a#QtYP1/e2Ze5mS8""/60p>0mlW/F=iD<KhMh(E>O(%''/7/*V=Pg%%[ODIp,"-03qI)qim6&uYc1cRU<;!"$7t@$&$qi.rCl5.KSPlJ\WiH<k,een>GC=MHJ>Y%o)S:\M=m@*eG?[XH6@3R4UqZ*PGh&Z8*.(K7GC&U#hCk'2dc7IP6luUKV3JD9qK+Xa&hIV'<9t=@1)kHs!omqkrIVQ^m/NbH[)"I=@NXE(95&D!BYZWSm#2';+t"_SGWHbZ4$161QF`mEh[GCFBFg0DqjVL$_l5K\@c&o,49bfuN0;5$FF$\:9VpEYfP]^QQ!AZ)>sj2k9P%+3CY3V?J`UZEiipF;-;X&dhl6]GAJ]>p7"]"rF-UnP[&3h5V@]BgZB%WIM2Pk?.PleO()`RgWk5jEV:scq_lfXF1'*8tg!D>d7l7r2NS;jg=NoC(Bj92mDTLrteXiZ*U8"m3lASn*gjQ?j\hrC`CU..q'=65bkjR,-aXSeOK\HZASa1Mro0HaiochHT\!;+(5?udI61DSTHY7,K3OJ=V6[N.T*<\"`S@UWP;<N&e0ZW.GMtfG3j#W9JjKflA+6ZEcS*[)_b0-'o9V7K63'uFqUSpOcA(DR)e$_bmX"#;CK=`DbG"=T)jnA@4/M$1+E2!ZfdJZsGfpn,T9qht(CF-<PVS$#t<NW2A6DG7[<kGpm[Ch%h!]fithOIok$HKo;rZS&s7l%O3f]rfjSmU9CM9EgGJ[+a&*T)X&&^?!&Qch@1\[<a:3H"B>l*iE$&.AUn`%@;\_K(RoE+a*9g;pV3%B$5!f2-<[]I\8$pBC\SpPI$@GGC6CgPAS(fHXPAqS;$+6`khnU>c31Gg%qk7KR%7YDR\M@9[uDJtf6LiMXcP^&1,6V=a'7P#i^[Me9fEk\2IX)BO1_fnP$U'Y5+i?06L:$b+!FlcHeQ/CH=+p0pO"J.75$`Uo-(m<)6A7VD_H!fu*G#lM-%)/G2Rl)o<:'=ao`Gsb>aQ!AdL%-?\)DWF#tqUb?@A9"PCcRt$GjGM9NrM0;%;tXtSfM3K/B&;u@a)n<0>#dALjKu10lY\m")^6imXnuCJc8EFa*(W,`H_#lgf$)>2Yk>=%QhlAK#=:*?\PQXWZM1-RUd^E*(ceunQqP_l*FE],I'M)h"MT7maI*M=4Z+=O$L`uoJc7qgi]JAK''^O5Rua0$>rR<%3uYoH[V`f"@_aa96[."_K9_`+Lkber@5r9Z.V?3&BnpP$!EXaQCS=7S~>
+endstream
+endobj
+13 0 obj
+<<
+/F1 5 0 R
+/F2 7 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+endobj
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 8459
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.101961 .360784 .419608 rg
+n 0 803.622 595.2756 38.26772 re f*
+.878431 .482353 .164706 rg
+n 0 803.622 12.75591 38.26772 re f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 25.51181 817.7953 Tm (WhatsNext Vision Motors CRM  |  Phase 2 \227 Development & Implementation) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 477.5771 817.7953 Tm (Automotive CRM System) Tj T* ET
+.101961 .360784 .419608 RG
+.5 w
+n 28.34646 31.1811 m 566.9291 31.1811 l S
+.333333 .333333 .333333 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 28.34646 17.00787 Tm (Confidential \226 WhatsNext Vision Motors CRM) Tj T* ET
+BT 1 0 0 1 543.1616 17.00787 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 70.86614 676.5276 cm
+q
+.101961 .360784 .419608 rg
+n 0 97 453.5433 -25 re f*
+1 1 1 rg
+n 0 72 453.5433 -24 re f*
+.94902 .972549 .976471 rg
+n 0 48 453.5433 -24 re f*
+1 1 1 rg
+n 0 24 453.5433 -24 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+q
+1 0 0 1 8 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Field Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 121.3858 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Data Type) Tj T* ET
+Q
+Q
+q
+1 0 0 1 220.5984 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.4646 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Description) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 8 57.5 Tm (Price) Tj T* ET
+BT 1 0 0 1 121.3858 57.5 Tm (Currency) Tj T* ET
+BT 1 0 0 1 220.5984 57.5 Tm (Yes) Tj T* ET
+BT 1 0 0 1 291.4646 57.5 Tm (Vehicle price) Tj T* ET
+BT 1 0 0 1 8 33.5 Tm (Stock Quantity) Tj T* ET
+BT 1 0 0 1 121.3858 33.5 Tm (Number) Tj T* ET
+BT 1 0 0 1 220.5984 33.5 Tm (Yes) Tj T* ET
+BT 1 0 0 1 291.4646 33.5 Tm (Available stock count) Tj T* ET
+BT 1 0 0 1 8 9.5 Tm (Status) Tj T* ET
+BT 1 0 0 1 121.3858 9.5 Tm (Picklist) Tj T* ET
+BT 1 0 0 1 220.5984 9.5 Tm (Yes) Tj T* ET
+BT 1 0 0 1 291.4646 9.5 Tm (Available / Out of Stock) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 97 m 453.5433 97 l S
+n 0 72 m 0 97 l S
+n 0 0 m 0 72 l S
+n 453.5433 72 m 453.5433 97 l S
+n 453.5433 0 m 453.5433 72 l S
+n 0 0 m 453.5433 0 l S
+n 0 72 m 453.5433 72 l S
+n 113.3858 72 m 113.3858 97 l S
+n 212.5984 72 m 212.5984 97 l S
+n 283.4646 72 m 283.4646 97 l S
+n 0 48 m 453.5433 48 l S
+n 0 24 m 453.5433 24 l S
+n 113.3858 0 m 113.3858 72 l S
+n 212.5984 0 m 212.5984 72 l S
+n 283.4646 0 m 283.4646 72 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 670.5276 cm
+Q
+q
+1 0 0 1 62.69291 542.9685 cm
+.917647 .956863 .968627 rg
+.101961 .360784 .419608 RG
+1 w
+n
+5 0 m
+464.8898 0 l
+467.6538 0 469.8898 2.236 469.8898 5 c
+469.8898 122.5591 l
+469.8898 125.3231 467.6538 127.5591 464.8898 127.5591 c
+5 127.5591 l
+2.236 127.5591 0 125.3231 0 122.5591 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.101961 .360784 .419608 rg
+n
+5 107.7165 m
+464.8898 107.7165 l
+467.6538 107.7165 469.8898 109.9525 469.8898 112.7165 c
+469.8898 122.5591 l
+469.8898 125.3231 467.6538 127.5591 464.8898 127.5591 c
+5 127.5591 l
+2.236 127.5591 0 125.3231 0 122.5591 c
+0 112.7165 l
+0 109.9525 2.236 107.7165 5 107.7165 c
+h
+f*
+n 0 107.7165 234.9449 19.84252 re f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+.333333 .333333 .333333 rg
+BT /F1 8 Tf 9.6 TL ET
+Q
+q
+1 0 0 1 62.69291 528.9685 cm
+Q
+q
+1 0 0 1 62.69291 507.7087 cm
+.878431 .482353 .164706 rg
+n 0 0 7.086614 21.25984 re f*
+.101961 .360784 .419608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 15.59055 6.23622 Tm (3.2  Dealer Object) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 502.7087 cm
+Q
+q
+1 0 0 1 62.69291 472.7087 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 20.5 Tm /F1 9.5 Tf 15 TL (The Dealer object stores details about authorized dealerships responsible for vehicle delivery and order) Tj T* (fulfillment. Each dealer is linked to one or more Order records through a lookup relationship.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 460.7087 cm
+Q
+q
+1 0 0 1 70.86614 339.7087 cm
+q
+.101961 .360784 .419608 rg
+n 0 121 453.5433 -25 re f*
+1 1 1 rg
+n 0 96 453.5433 -24 re f*
+.94902 .972549 .976471 rg
+n 0 72 453.5433 -24 re f*
+1 1 1 rg
+n 0 48 453.5433 -24 re f*
+.94902 .972549 .976471 rg
+n 0 24 453.5433 -24 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+q
+1 0 0 1 8 102 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Field Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 121.3858 102 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Data Type) Tj T* ET
+Q
+Q
+q
+1 0 0 1 220.5984 102 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.4646 102 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Description) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 8 81.5 Tm (Dealer Name) Tj T* ET
+BT 1 0 0 1 121.3858 81.5 Tm (Text) Tj T* ET
+BT 1 0 0 1 220.5984 81.5 Tm (Yes) Tj T* ET
+BT 1 0 0 1 291.4646 81.5 Tm (Dealer identifier) Tj T* ET
+BT 1 0 0 1 8 57.5 Tm (Location) Tj T* ET
+BT 1 0 0 1 121.3858 57.5 Tm (Text) Tj T* ET
+BT 1 0 0 1 220.5984 57.5 Tm (Yes) Tj T* ET
+BT 1 0 0 1 291.4646 57.5 Tm (Dealer geographic location) Tj T* ET
+BT 1 0 0 1 8 33.5 Tm (Contact Number) Tj T* ET
+BT 1 0 0 1 121.3858 33.5 Tm (Phone) Tj T* ET
+BT 1 0 0 1 220.5984 33.5 Tm (No) Tj T* ET
+BT 1 0 0 1 291.4646 33.5 Tm (Dealer contact phone) Tj T* ET
+BT 1 0 0 1 8 9.5 Tm (Email) Tj T* ET
+BT 1 0 0 1 121.3858 9.5 Tm (Email) Tj T* ET
+BT 1 0 0 1 220.5984 9.5 Tm (No) Tj T* ET
+BT 1 0 0 1 291.4646 9.5 Tm (Dealer contact email) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 121 m 453.5433 121 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 121 l S
+n 453.5433 0 m 453.5433 121 l S
+n 0 96 m 453.5433 96 l S
+n 0 72 m 453.5433 72 l S
+n 0 48 m 453.5433 48 l S
+n 0 24 m 453.5433 24 l S
+n 113.3858 0 m 113.3858 121 l S
+n 212.5984 0 m 212.5984 121 l S
+n 283.4646 0 m 283.4646 121 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 325.7087 cm
+Q
+q
+1 0 0 1 62.69291 304.4488 cm
+.878431 .482353 .164706 rg
+n 0 0 7.086614 21.25984 re f*
+.101961 .360784 .419608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 15.59055 6.23622 Tm (3.3  Customer Object) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 299.4488 cm
+Q
+q
+1 0 0 1 62.69291 269.4488 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 20.5 Tm /F1 9.5 Tf 15 TL (The Customer object stores personal and contact information about buyers. It is the primary entity linked to) Tj T* (Orders, enabling full order history tracking per customer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 257.4488 cm
+Q
+q
+1 0 0 1 70.86614 136.4488 cm
+q
+.101961 .360784 .419608 rg
+n 0 121 453.5433 -25 re f*
+1 1 1 rg
+n 0 96 453.5433 -24 re f*
+.94902 .972549 .976471 rg
+n 0 72 453.5433 -24 re f*
+1 1 1 rg
+n 0 48 453.5433 -24 re f*
+.94902 .972549 .976471 rg
+n 0 24 453.5433 -24 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+q
+1 0 0 1 8 102 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Field Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 121.3858 102 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Data Type) Tj T* ET
+Q
+Q
+q
+1 0 0 1 220.5984 102 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 291.4646 102 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Description) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 8 81.5 Tm (Customer Name) Tj T* ET
+BT 1 0 0 1 121.3858 81.5 Tm (Text) Tj T* ET
+BT 1 0 0 1 220.5984 81.5 Tm (Yes) Tj T* ET
+BT 1 0 0 1 291.4646 81.5 Tm (Customer full name) Tj T* ET
+BT 1 0 0 1 8 57.5 Tm (Address) Tj T* ET
+BT 1 0 0 1 121.3858 57.5 Tm (Text) Tj T* ET
+BT 1 0 0 1 220.5984 57.5 Tm (Yes) Tj T* ET
+BT 1 0 0 1 291.4646 57.5 Tm (Customer residential address) Tj T* ET
+BT 1 0 0 1 8 33.5 Tm (Phone) Tj T* ET
+BT 1 0 0 1 121.3858 33.5 Tm (Phone) Tj T* ET
+BT 1 0 0 1 220.5984 33.5 Tm (Yes) Tj T* ET
+BT 1 0 0 1 291.4646 33.5 Tm (Customer contact number) Tj T* ET
+BT 1 0 0 1 8 9.5 Tm (Email) Tj T* ET
+BT 1 0 0 1 121.3858 9.5 Tm (Email) Tj T* ET
+BT 1 0 0 1 220.5984 9.5 Tm (Yes) Tj T* ET
+BT 1 0 0 1 291.4646 9.5 Tm (Customer email address) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 121 m 453.5433 121 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 121 l S
+n 453.5433 0 m 453.5433 121 l S
+n 0 96 m 453.5433 96 l S
+n 0 72 m 453.5433 72 l S
+n 0 48 m 453.5433 48 l S
+n 0 24 m 453.5433 24 l S
+n 113.3858 0 m 113.3858 121 l S
+n 212.5984 0 m 212.5984 121 l S
+n 283.4646 0 m 283.4646 121 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 122.4488 cm
+Q
+q
+1 0 0 1 62.69291 101.189 cm
+.878431 .482353 .164706 rg
+n 0 0 7.086614 21.25984 re f*
+.101961 .360784 .419608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 15.59055 6.23622 Tm (3.4  Order Object) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 96.18898 cm
+Q
+q
+1 0 0 1 62.69291 66.18898 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 20.5 Tm /F1 9.5 Tf 15 TL (The Order object records a customer's request to purchase a specific vehicle. It serves as the junction between) Tj T* (Customer, Vehicle, and Dealer objects and is the primary trigger point for automation.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1157
+>>
+stream
+Gat=*gMYb*&:O:SbgW:<:kkcjOWM-V[cjIQVMWYgJ\27HD6)4+Q/neCp>^?f9@P7geL!mt;_r'2cHPdpJE"K%s)eh@B+,T[)))Qj(763Gicjln]_]&\N3Yu/+G$7J'L2d2BaE7,<?O8s!E#A>N$R@c.L8AXQ.?p)"5=VB&gA_h\-R@&"!C8D:"9s'371VnC^N[)pn4r<a<>U%-ja+,pmSTg\0R6BO?prEd1OY=kO@iqIF?Ueb`;rlV0,rWn@i_]WeS]dpAk3o>jmm1!/EY]2-cR<-7]V;.2qs`hWBU;f^DCa^ul8YJbVYqWD-E,\O8hKVBWAo;X4XS=3%2^b9m1*h!DK\F^su.fXX]5]NGgQpR!TTP!CFH8S/*j1<;a273ZU_f=oDcG!uK,"4PRKNsq,B@t,hbh&JtV+qO(N?^AYhh-_k`,dY$Zn<:eN;q2&;,/E3E8`8oFB0Zk:+0juiLuLf_EEXMoXqgZqa?a;`.)c=t?g&LGH^:W:KFA,A$K*4sdp@)Z64A91f?TM7-jLB!/k';8Z(64QVrp=?^leKl\@<NE_M[jW_t(,HcS%<H2hWgX+YZJ`q&VkihcYUaE$$7-&Y?[29t#T`8T%!T*u:,=9fU$+HV44:Ue)\X36[0@\@oGMH:mrOoBhoGAhtMlPc#8r,k@g==6X/!h:N%4"8;%>4KVstQ9f>g$]hA,=4][e``1E'%t+7RHUqt>oUXa<*:WClH"`g>&,g>0).0!Mmq^sugmQ#Y8RjYT3hhnmR`Z?1)7HK&aqfJPXDp0VeWMNqGZU2<NsAY8+d[n.ln8Wk6k&MX,oj4$NTutG3@UKI's\VRam@K![T"jImR=On784i6/8<65C6P'n/_7A3i,GdKp?8#F,^#$Z1.eoV-L^=*SR@A%4E+HLKFoJPSaHhhSJ&BOCn#%ic\iJ?UK*"0bu1)p@c#]en\31=7UZ=YhKpg#^0O,#8_pi2S;qInhVuN:3&?nfcoGI2l`XGp2[_*aI4Of<9sI9J*F+-,@oW8[\D9@K`kO0OObD2%IiUS@jEZ62fqH+Z'Q14-JW='cJ`FOW-BPnI$r&_R-9aohINCW6#8S;%#!C'6"rqai4M_7,*-DHLR\+fQ8(";&Q9t>ZkKR^f0=5=U(t`tX1NiD/d+LXp#?Lj,L%NL)~>
+endstream
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2910
+>>
+stream
+Gb!Sm=``=W&q9SYkbh^39#_Db_'<1]OL:XYh3oULXig!_X/6F8ZC(-C8]k4Tc&\L:6&8tu=a#spM3H"+qEgs<%kS,0r_WQC=oeJ9#!]kr5T.c]5Q_Y7lrU]eS_ThKlHplQ5lAueiW)N"O'W7fh+<IIZ0.=41#N?c/E.iJ0k"K)0rQBLIQAW,1AT!4`6@C.&/kb8(Co+I,8')F*O;G3pk-N=5R*(RcQf^&%pr8I'ugQX1o:i5LdVR7RM@OPD(43$Sbuh&+1!;p8pFRJ<SbIdoilr2!3VW^Ohfn@Ym;uCK?UAr+j1Z##6-;V\Q$>%()]nVp).I,=f'8DZ*GZ!iRaq0;+,XC%8;&\DQBLHZNmJ;h`Ng!/:(e"H2@B('>e11raIVPK.oP<;h@*-:]M"nOtbuWq^RAj'B8=B0`:;88-/,,erR>Gdt+BCBLek85Hi3u2Fh+b,$2JciIGE^?.B8DJWGR^#D0.tSHRg0pjb*NZ%S'hH?54@kekAAI4CsR4Hb@p[*T>>7sW%b85-ZAp<]oJ&*"5sOrduNj$CKNpFt`:Z0tb0A!7*X35`#ZU^;k[`\E"#(O:!;lHO[l&]`d-i+iLD/EAc:*qR:#Jnpe?i,+e5$>sCd?9R[il9%4)i,&dBFYHQ2HlAcZX"qmt!E\L;92+\LY')OFs66j`>BKGedKZuiDF?+H79-5uk&QTL&sh&PajR2\2^%Tdd]+j\<R*mpF1jUNXaiiHD&W0pgPqFDZqFO533R)XCqIqfqV"bnPMMKHb@Y&'`X']/<o2A0ql")L;LCfH5V<gTR]5Rk^R"P&<o3*&>-=m:`@%tOh,3p#EAZt<#]!T\@L2MBg\($/lC10YY<KePo&5Pt@F8%"=A!ocJP1_?nJLCR`-@BB:Q/o+'?"BC4(@aI+d/C:c!3'hFrNeZ2q[<GL.bo`V%_eQ8EgBN?:Rp`M')=*.@<9$jBfY2lN*=DkTtg6A<YTtC=#G7HquP9lZ-f_K70<L1%<70dH#]2?n7?sBPB]G$$Q+k[u?)cBcqEtn*@Nca"+OgSQ#0pP\4iUp/[E=E'*m'WkPQ9\#89Ac9Zkr839aK;8Oe!R*NZ3D_l43:ao<]!je^[AjL!c_6V3`Ne:17MbN8S=B1`Q.co@kQ^eFW73LVK`SgXER#c9UV5X"k\]j;`Oj!UVn6dhJ*YYT>'Xarrhna)1$__XZ'5gIE4VnaSn.1G`jBI#_A&].abu>b],XF8eTOV?E4b"ig=[.<$2,sn\KE"+[5QLD"Mq<'%0"-HHT+jCD0W"O#gNi1'l$='(@^*H<(@\;-^_5L.^o)&NCNXOrT?IA5^,Zk'aZVUXM"lq\eZsP+b9-F84!"Q\_#t92&ubg'(W1Cn#NNBS3_2sSbl4fX,$nA8MEI@=0.Z(3pR1XM-p`A;V'@r@jnX9Gatj7"3sKnZX2UQ]6!];JA;tkm\S'?nd<?kW)?oi'$m3W8$AB0?k2p-D:CTFel`*-Qe5Em%SFkb"WidE4maAm#9>BO9Um^5qhlei4b+sA-l7Z6[N4?DlF&<<n;1!77KmKjD+;uS"$VQc,pM6R<+._7_eh4"G$QB50Wd^bo>TNnRK?,,t&-iSGb]XNX&1jV*0hI1]r%n"b9Vtp<7IKaIYDcf[NQf3SD'mD#`QODEbt_OAoQZ"ea30\0k`+U=X$u:cefcZ@hHhI#_rM@O%!M`G8V\f8M6Gj7(%&Tc%qiSsHA;_pbO2cq.d9F$:-,4]J%!5TokKb)VDIWs5o$gXf[gu"[\I&b-WdUD@jJZMDr0bQ),TTA6!_S-J6&LNe(.[%1SW8Y<k2OTdg#2B@63\3hV9$T5Aed3GhIAFe$$BRf>ZqZT-sQ)jY(_pYG\fr>jk'(VskJf!LBi<oEIM8ZrQr+5-+p>NV7@,UB**2A\(&'`tmoS!R>1VbGmr:Q\EM$AE]s+LH4#qdGfKHIbGs[WPpVUAX`Vl<6r@MI$*StV8E[aj!s2b;rRAqTpT4.T$"KU]e]"p(7[&>p1aOUnRjbZcA\;m3qJ/_AHh&>CkIk%V-_.$!sWILO<^R/1jpKN3/#"mI.0r$#[H)dem3YAKhBP2boT!L_8sPaEE4[:)D/r94W*n?\+s)1Mt?D,W\-^:["G.Bi8;ZLjY)u#*O\n^:D_k7P&8:>L9F**Yg?FN&u#_5=,<+>Kuhf=$IAMf?/A+0p;'gd)oTXcEQeHbY*rE&)QUoRd/'&I*3T#>W@$5($FWbphEgMu(9n*+Lcsr5He6&tY($C6Lr`^9*X7'e+iDt(s([?Pr5"1o&,/e/Y8c$SH3!S3?>Z9#jGX8fn)FPB:Di]u;$RaHcb`.D(f+UrLn<H`2019'14_cAnAO?,6D>I8bk51AZE(RRUt$DKB"'URgh+P43-,5sj-P]Gl7lA"K=Ih7<=Cb%!Hj_nS(63JS\B5+_g=-dYef1oCHk]rHChd%S-]&$PU-S`ji/p?+b@A7(r!!3>4h_J&N3llCpT1aW_V0U[\EZ8<*ab`S5Ke%<X?P\/OjrEWL\$r=/?T<@+cub]u4I+9!g"V!TCChM>$dWOG!Dd9BKB>PsWBp6Bl_k;5<QZDF((@eJKn'bFdMR=*H-:hFH@;W;8u%jJ^nZ-KJo)LlT("7/iAPn+#B0iIUa4::!$$rf!979e5s6Z(ni+2W4C_?`,,ik$D7f0XIuG^-M7CCb]IT_"h+XCcCRbBfA69F5(p"f.NuH9ht)D/DA?ckG^L6?^].9rV':M1V@o3?<--U!CcGg7jA;Z`5#Wo]MQCF-*nI+hOY@i?=T^@"X8p7<F``e'd=(^jRgqA"jeW?fo^'clR&u#@!I'gM=V56Xq7_(7+GX^@C=f0p"Hk8lIXo48!'4^-f2[]+WA/MB1tBA48[JtIfP_gMfG7DTHD!ScQ-c3)PcB(#H*?sJTde0H.q0CU&e)0ng@+"2,j~>
+endstream
+endobj
+20 0 obj
+<<
+/Contents 21 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 7511
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.101961 .360784 .419608 rg
+n 0 803.622 595.2756 38.26772 re f*
+.878431 .482353 .164706 rg
+n 0 803.622 12.75591 38.26772 re f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 25.51181 817.7953 Tm (WhatsNext Vision Motors CRM  |  Phase 2 \227 Development & Implementation) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 477.5771 817.7953 Tm (Automotive CRM System) Tj T* ET
+.101961 .360784 .419608 RG
+.5 w
+n 28.34646 31.1811 m 566.9291 31.1811 l S
+.333333 .333333 .333333 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 28.34646 17.00787 Tm (Confidential \226 WhatsNext Vision Motors CRM) Tj T* ET
+BT 1 0 0 1 543.1616 17.00787 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 70.86614 676.5276 cm
+q
+.101961 .360784 .419608 rg
+n 0 97 453.5433 -25 re f*
+1 1 1 rg
+n 0 72 453.5433 -24 re f*
+.94902 .972549 .976471 rg
+n 0 48 453.5433 -24 re f*
+1 1 1 rg
+n 0 24 453.5433 -24 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+q
+1 0 0 1 8 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.86614 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Action) Tj T* ET
+Q
+Q
+q
+1 0 0 1 192.252 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL (Details) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 8 57.5 Tm (Action 2) Tj T* ET
+BT 1 0 0 1 78.86614 57.5 Tm (Conditional Update) Tj T* ET
+BT 1 0 0 1 192.252 57.5 Tm (If Stock Quantity > 0 ) Tj /F4 8.5 Tf 12 TL (\256) Tj /F1 8.5 Tf 12 TL ( Status = Confirmed and stock is decremented. If Stock = 0 ) Tj /F4 8.5 Tf 12 TL (\256) Tj /F1 8.5 Tf 12 TL ( Status = Pending.) Tj T* ET
+BT 1 0 0 1 8 33.5 Tm (Action 3) Tj T* ET
+BT 1 0 0 1 78.86614 33.5 Tm (Assign Nearest Dealer) Tj T* ET
+BT 1 0 0 1 192.252 33.5 Tm (Uses dealer location data to auto-assign the most appropriate dealer to the order record.) Tj T* ET
+BT 1 0 0 1 8 9.5 Tm (Action 4) Tj T* ET
+BT 1 0 0 1 78.86614 9.5 Tm (Send Email Confirmation) Tj T* ET
+BT 1 0 0 1 192.252 9.5 Tm (Sends a pre-configured email template to the customer confirming order details, vehicle, and dealer.) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 97 m 453.5433 97 l S
+n 0 72 m 0 97 l S
+n 0 0 m 0 72 l S
+n 453.5433 72 m 453.5433 97 l S
+n 453.5433 0 m 453.5433 72 l S
+n 0 0 m 453.5433 0 l S
+n 0 72 m 453.5433 72 l S
+n 70.86614 72 m 70.86614 97 l S
+n 184.252 72 m 184.252 97 l S
+n 0 48 m 453.5433 48 l S
+n 0 24 m 453.5433 24 l S
+n 70.86614 0 m 70.86614 72 l S
+n 184.252 0 m 184.252 72 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 668.5276 cm
+Q
+q
+1 0 0 1 62.69291 623.5276 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 35.5 Tm /F1 9.5 Tf 15 TL (Automation eliminates repetitive administrative tasks, reduces human error, and ensures customers receive) Tj T* (timely communications. Salesforce Flow provides a no-code solution maintainable by administrators without) Tj T* (developer assistance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 601.5276 cm
+Q
+q
+1 0 0 1 62.69291 567.5118 cm
+.878431 .482353 .164706 rg
+n 0 0 9.92126 34.01575 re f*
+.909804 .956863 .964706 rg
+n 9.92126 0 459.9685 34.01575 re f*
+.878431 .482353 .164706 rg
+BT /F2 14 Tf 16.8 TL ET
+BT 1 0 0 1 19.84252 9.070866 Tm (07) Tj T* ET
+.101961 .360784 .419608 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 51.02362 9.070866 Tm (User Interface Configuration) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 559.5118 cm
+Q
+q
+1 0 0 1 62.69291 514.5118 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 35.5 Tm /F1 9.5 Tf 15 TL (The Salesforce Lightning Experience user interface was configured to present a clean, intuitive environment for) Tj T* (Vision Motors CRM users. All interface changes were made declaratively through App Manager and Page) Tj T* (Layout Editor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 500.5118 cm
+Q
+q
+1 0 0 1 56.69291 371.5118 cm
+q
+.909804 .956863 .964706 rg
+n 0 129 481.8898 -37 re f*
+1 1 1 rg
+n 0 92 481.8898 -92 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 104 cm
+q
+.101961 .360784 .419608 rg
+BT 1 0 0 1 0 5 Tm /F2 10 Tf 15 TL (App Manager) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.6299 104 cm
+q
+.101961 .360784 .419608 rg
+BT 1 0 0 1 0 5 Tm /F2 10 Tf 15 TL (Tab Creation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 331.2598 104 cm
+q
+.101961 .360784 .419608 rg
+BT 1 0 0 1 0 5 Tm /F2 10 Tf 15 TL (Page Layouts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 12 cm
+q
+BT 1 0 0 1 0 61.5 Tm 14 TL /F1 8.5 Tf .109804 .109804 .109804 rg (\177 Vision Motors CRM app created in) Tj T* (App Manager) Tj  T* (\177 Lightning Experience type selected) Tj  T* (\177 Custom utility bar and nav items) Tj T* (configured) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.6299 12 cm
+q
+BT 1 0 0 1 0 61.5 Tm 14 TL /F1 8.5 Tf .109804 .109804 .109804 rg (\177 Four object tabs: Vehicles, Dealers,) Tj T* (Customers, Orders) Tj  T* (\177 Custom tab icons assigned to each) Tj T* (object) Tj  T* (\177 Tabs pinned to CRM navigation bar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 331.2598 12 cm
+q
+BT 1 0 0 1 0 61.5 Tm 14 TL /F1 8.5 Tf .109804 .109804 .109804 rg (\177 Page layouts customized per object) Tj  T* (\177 Key fields positioned prominently on) Tj T* (detail views) Tj  T* (\177 Related lists configured \(e.g., Orders) Tj T* (on Customer page\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 129 m 481.8898 129 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 129 l S
+n 481.8898 0 m 481.8898 129 l S
+n 0 92 m 481.8898 92 l S
+n 160.6299 0 m 160.6299 129 l S
+n 321.2598 0 m 321.2598 129 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 361.5118 cm
+Q
+q
+1 0 0 1 62.69291 233.9528 cm
+.917647 .956863 .968627 rg
+.101961 .360784 .419608 RG
+1 w
+n
+5 0 m
+464.8898 0 l
+467.6538 0 469.8898 2.236 469.8898 5 c
+469.8898 122.5591 l
+469.8898 125.3231 467.6538 127.5591 464.8898 127.5591 c
+5 127.5591 l
+2.236 127.5591 0 125.3231 0 122.5591 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.101961 .360784 .419608 rg
+n
+5 107.7165 m
+464.8898 107.7165 l
+467.6538 107.7165 469.8898 109.9525 469.8898 112.7165 c
+469.8898 122.5591 l
+469.8898 125.3231 467.6538 127.5591 464.8898 127.5591 c
+5 127.5591 l
+2.236 127.5591 0 125.3231 0 122.5591 c
+0 112.7165 l
+0 109.9525 2.236 107.7165 5 107.7165 c
+h
+f*
+n 0 107.7165 234.9449 19.84252 re f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+.333333 .333333 .333333 rg
+BT /F1 8 Tf 9.6 TL ET
+Q
+q
+1 0 0 1 62.69291 217.9528 cm
+Q
+q
+1 0 0 1 62.69291 183.937 cm
+.878431 .482353 .164706 rg
+n 0 0 9.92126 34.01575 re f*
+.909804 .956863 .964706 rg
+n 9.92126 0 459.9685 34.01575 re f*
+.878431 .482353 .164706 rg
+BT /F2 14 Tf 16.8 TL ET
+BT 1 0 0 1 19.84252 9.070866 Tm (08) Tj T* ET
+.101961 .360784 .419608 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 51.02362 9.070866 Tm (Reports Creation) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 175.937 cm
+Q
+q
+1 0 0 1 62.69291 145.937 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 20.5 Tm /F1 9.5 Tf 15 TL (Salesforce Reports were configured to provide management with data-driven insights into vehicle order activity) Tj T* (and customer engagement. A custom report type was created to enable cross-object reporting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 131.937 cm
+Q
+q
+1 0 0 1 70.86614 72.93701 cm
+q
+.101961 .360784 .419608 rg
+n 0 59 99.2126 -59 re f*
+.909804 .956863 .964706 rg
+n 99.2126 59 354.3307 -59 re f*
+.909804 .956863 .964706 rg
+n 99.2126 59 354.3307 -59 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 37 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 9 Tf 15 TL (Report Type) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107.2126 7 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 36 Tm /F1 9 Tf 15 TL (Orders with Customers and Vehicles \227 a custom report type that joins Order,) Tj T* (Customer, and Vehicle objects, enabling a single report to display data across all) Tj T* (three entities.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 59 m 453.5433 59 l S
+n 0 0 m 0 59 l S
+n 453.5433 0 m 453.5433 59 l S
+n 0 0 m 453.5433 0 l S
+n 99.2126 0 m 99.2126 59 l S
+Q
+Q
+Q
+ 
+
+endstream
+endobj
+22 0 obj
+<<
+/Contents 23 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 6108
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.101961 .360784 .419608 rg
+n 0 803.622 595.2756 38.26772 re f*
+.878431 .482353 .164706 rg
+n 0 803.622 12.75591 38.26772 re f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 25.51181 817.7953 Tm (WhatsNext Vision Motors CRM  |  Phase 2 \227 Development & Implementation) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 477.5771 817.7953 Tm (Automotive CRM System) Tj T* ET
+.101961 .360784 .419608 RG
+.5 w
+n 28.34646 31.1811 m 566.9291 31.1811 l S
+.333333 .333333 .333333 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 28.34646 17.00787 Tm (Confidential \226 WhatsNext Vision Motors CRM) Tj T* ET
+BT 1 0 0 1 543.1616 17.00787 Tm (Page 7) Tj T* ET
+Q
+q
+1 0 0 1 70.86614 641.5276 cm
+q
+.101961 .360784 .419608 rg
+n 0 132 99.2126 -132 re f*
+.909804 .956863 .964706 rg
+n 99.2126 132 354.3307 -132 re f*
+.909804 .956863 .964706 rg
+n 99.2126 132 354.3307 -44 re f*
+.996078 .952941 .909804 rg
+n 99.2126 88 354.3307 -44 re f*
+.909804 .956863 .964706 rg
+n 99.2126 44 354.3307 -44 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 110 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 9 Tf 15 TL (Fields Used) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107.2126 95 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 21 Tm /F1 9 Tf 15 TL (Order Name, Customer Name, Vehicle, Status, Order Date \227 providing a complete) Tj T* (view of who ordered which vehicle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 66 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 9 Tf 15 TL (Filters Applied) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107.2126 51 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 21 Tm /F1 9 Tf 15 TL (Status = Confirmed, Date Range = Current Month \227 filtered to show only confirmed) Tj T* (orders, eliminating noise from pending records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 22 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 9 Tf 15 TL (Format) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107.2126 7 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 21 Tm /F1 9 Tf 15 TL (Tabular Report with row-level detail, sorted by Order Date descending. Designed for) Tj T* (export and academic review of system data accuracy.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 0 m 0 132 l S
+n 453.5433 0 m 453.5433 132 l S
+n 0 0 m 453.5433 0 l S
+n 0 132 m 453.5433 132 l S
+n 0 88 m 453.5433 88 l S
+n 0 44 m 453.5433 44 l S
+n 99.2126 0 m 99.2126 132 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 625.5276 cm
+Q
+q
+1 0 0 1 62.69291 591.5118 cm
+.878431 .482353 .164706 rg
+n 0 0 9.92126 34.01575 re f*
+.909804 .956863 .964706 rg
+n 9.92126 0 459.9685 34.01575 re f*
+.878431 .482353 .164706 rg
+BT /F2 14 Tf 16.8 TL ET
+BT 1 0 0 1 19.84252 9.070866 Tm (09) Tj T* ET
+.101961 .360784 .419608 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 51.02362 9.070866 Tm (Dashboard Creation) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 583.5118 cm
+Q
+q
+1 0 0 1 62.69291 553.5118 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 20.5 Tm /F1 9.5 Tf 15 TL (A Salesforce Dashboard was created to visualize vehicle order data in real time. Dashboards provide) Tj T* (at-a-glance operational visibility for automotive dealership management.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 539.5118 cm
+Q
+q
+1 0 0 1 70.86614 363.5118 cm
+q
+.101961 .360784 .419608 rg
+n 0 176 99.2126 -176 re f*
+.909804 .956863 .964706 rg
+n 99.2126 176 354.3307 -176 re f*
+.909804 .956863 .964706 rg
+n 99.2126 176 354.3307 -44 re f*
+.996078 .952941 .909804 rg
+n 99.2126 132 354.3307 -44 re f*
+.909804 .956863 .964706 rg
+n 99.2126 88 354.3307 -44 re f*
+.996078 .952941 .909804 rg
+n 99.2126 44 354.3307 -44 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 154 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 9 Tf 15 TL (Dashboard Setup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107.2126 139 cm
+q
+BT 1 0 0 1 0 21 Tm 15 TL /F1 9 Tf .109804 .109804 .109804 rg (New dashboard created titled ) Tj /F2 9 Tf (Vehicle Order Overview) Tj /F1 9 Tf (. Configured with a 3-column) Tj T* (layout for clean visual presentation. Set to refresh on login for current data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 95 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 21 Tm /F2 9 Tf 15 TL (Pie Chart) Tj T* (Component) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107.2126 95 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 21 Tm /F1 9 Tf 15 TL (A Pie Chart widget was added showing order distribution across all available) Tj T* (vehicles, allowing managers to identify the most and least ordered models.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 51 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 21 Tm /F2 9 Tf 15 TL (Bar Chart) Tj T* (Component) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107.2126 51 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 21 Tm /F1 9 Tf 15 TL (A Bar Chart was added displaying total orders grouped by Status \(Pending /) Tj T* (Confirmed\), giving management a snapshot of current order pipeline health.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 22 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 9 Tf 15 TL (Metric Component) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107.2126 7 cm
+q
+.109804 .109804 .109804 rg
+BT 1 0 0 1 0 21 Tm /F1 9 Tf 15 TL (A Metric tile was added displaying the total count of Confirmed Orders this month,) Tj T* (providing an instant KPI for current sales activity.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 176 m 453.5433 176 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 176 l S
+n 453.5433 0 m 453.5433 176 l S
+n 0 132 m 453.5433 132 l S
+n 0 88 m 453.5433 88 l S
+n 0 44 m 453.5433 44 l S
+n 99.2126 0 m 99.2126 176 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 353.5118 cm
+Q
+q
+1 0 0 1 62.69291 225.9528 cm
+.917647 .956863 .968627 rg
+.101961 .360784 .419608 RG
+1 w
+n
+5 0 m
+464.8898 0 l
+467.6538 0 469.8898 2.236 469.8898 5 c
+469.8898 122.5591 l
+469.8898 125.3231 467.6538 127.5591 464.8898 127.5591 c
+5 127.5591 l
+2.236 127.5591 0 125.3231 0 122.5591 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.101961 .360784 .419608 rg
+n
+5 107.7165 m
+464.8898 107.7165 l
+467.6538 107.7165 469.8898 109.9525 469.8898 112.7165 c
+469.8898 122.5591 l
+469.8898 125.3231 467.6538 127.5591 464.8898 127.5591 c
+5 127.5591 l
+2.236 127.5591 0 125.3231 0 122.5591 c
+0 112.7165 l
+0 109.9525 2.236 107.7165 5 107.7165 c
+h
+f*
+n 0 107.7165 234.9449 19.84252 re f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+.333333 .333333 .333333 rg
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT /F3 7.5 Tf 9 TL ET
+BT 1 0 0 1 2.167382 5.669291 Tm (Vision Motors CRM: Vehicle Order Overview dashboard showing Pie Chart \(Orders by Vehicle\), Bar Chart \(Orders by Status\), and Metric tile) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2941
+>>
+stream
+Gb!Sm968k/&\dR4oI3YG-j2?Ai3?9B33o+/<-E,:N,m#D!eqn8&E%!tC/pN@TC-uT+9dj1-$re<[Kt*XqjW%^h.5I(&(CRA>CaJki6NJ_0Fk-@Yg<bdoagi%]))6F@m3O1#$ql:E>!j>ihN,2qfl-$ikuA?LiX-,n9?K.#SN1gEQk,AYl=(595maYbJSu<+omZm@I-L^b8L%`+]<Kp*(@^dS?)nTOD=T=0<t*,CM$T*_@qkS$ka>&EJeD2[W)2K:"H;9j=_P/Q`=k:pp'(P<l+1ZNr]1\pq4_5":kIo4GNTN0<8]oQ$!=]J02539%)n(_hESleQ5k$B+H;m&s=R6U6hU-EU8NA4qZm^h_j/c/,)r6^3itPglAh66i-4h=.Xpi`/?!L&4RgpbWOC>_%oEQGpt-!m&LJZ='hR"_!,cm,6O0+90WHP3s.qG;3"c%IbWB<Z9Tt`X<O_i3!8M%<,Q1X#'ft1AE2"hUP*0biX=J1>7tp/d`TNpW\50*oo_c>GU4eO-t*[54qk2?QC.M_iZkP(Llr%qV5&0NN=V_ucVYlm/>#/Xg*R38ECNmHa\jbu\Ng8jr7Ff>81W$a='YdhJ3Y2!VG'`=cf[T9Ekk;IY,i]u_oi7/V^J.\On>i.+)_sV7kcp?2(<9L!PGKUe+s4hT)]G948";Xa<NRQ<mS8e==qp3n$B#F:>L%r,<p8g9o_a60WnoY0qFNc7Wc,j#O[d[D7,.q`l"/d?-n)0]2if[XiUH&/+?K7+E-P>cT>8pQFDiOOB!%/>aLM"Mf3ZAg!o52$6J9>+Y:eTSP\tigJX0s/HE9I>M?=98>l6j1>k:99t$C1:><q(X.H#g$eaO9AC\q'doHYEMO[N)ZHh10;;Mn.e*'4!'RDJ<Aps?G&4brTb95RV3'Zmd4p5iB`G+D23@s\jF+S(EkqMcjH?.4uR*oo[`P\E(S6C$I1!9$e2ob3+BjZ77DTYg7j$Ttl3$tSCAAB-;3>bq5XN^&CBH&0TR(^'fnP!&0bK`ar)RI'I2"k#_Ui4uc:9)#hQ/'u,%LFYjmPGLo&?SJ?a1GY4PKB./-1C(dK_+GCo_^e-ISm'.M$M6mC?OKKgQ8V%#NMZG`IM9o]lr6(/MmuFdEU28&AZ!7P^+S*!r9f^F>qn4`t3-8Kg\0jA9@nbHtq%PO5+WCNsB>'+mroGY"OoZF0Ij=Ps>!h714L&%_Wt$TRs<u+!7>9,VB-\@3@=('g1Fl<-$fGh!Vc:)(?+QmZ(XW[^>Cir7gR[(-?6.@e(eegtg,bXs7@G_Zk,j3C7:r12&aciMl0%7M>LEB?3l[BD;l0(Vq*:3f"#X?Vto._J0)^'lIoA.k$@QqUUO%mAfO+]cRDofsW<f<[s!,ZZ)f0r)I.OeB6%\:7.UNZ"fj_^mI+>.3=R5F`Gkf2u!b!3og+R!("_!RagBe>Zd'skf!Ve^l](;`*j7[*3F,(<X+Wj8X;o@H\KL_FJ5-r[ThJ!cs?_jk-;sq?H?ta<Z9bpb;X[=`eH+Vkr[O0FcWN*X?5,'M2X@c/AP_F+Z,[9TWRBhLG",TKEQ^_lFk&@"e5-S1'[p@kI/L[%*1mpN$GaWRZ4>'#;'mrnjgq(7FC*EkV;Io)`+rXYNu8a+Hb6?N3]3VB(+g0Y*8$sS)quCXDu$^]"*TM4V$:6Rb3id9.=D,43kgDKXdUB>8Xa9jK<4/=mL9lDM>V<IpKQRg]i.kEW.,OC5H6?`K3Ul(bLPFh&u.]2hM#`.r47*$)=3%FVi=Va'g>X#$t=/@R.i[G<;4``*&8L!0.Z8J[mbu:=:TO*!gjK5+5C5hsoT*ADCSl*XY3NR^NH]6'#"@)%&PGn;goQUPY`p1E-ql)@b*S0SJ4r4G8d5&5oOu&3dZK,Yk*HHu]>1O@B?IA-Prh)?@l64<-cM8S[[H`eOdXrah,'L0.0Aj8P`*FHQ*?X#AXL>\u+@PHYbS1g$g6aYbE(3gZ0?YlOaFJNZ.>3_]<uP[Z/%+7#f@J4tMsNFYNI`S?VXIA(.rg[pOfm<"g1rNjUmh&+"b]ka*c=\.23MXln*#?6sT.Rg8`23)3e;N5tk+j2g>6NMDf26*J9:9genRcX5Sg8W$o]gl+UWAE-?Kd(bJ+W!@TC,:U)Q8=Bb:oA:F*FjH!:eTi,FkT](`5>YV;dhGhk%Is?St0o,RYm:f'IE'jHpcLRq"=M*Hj!J]=39,_!chcD[PNlIr%Af8^n-k8)`F5u#8Dp'Ng#s,$>qG2JWEO;S_h75GrX+'\SkWUg[^Q2WoiM5&0.M-(Si)6)NJE@IBWGUgm<&9?9:^h7la.N,O%FB0Z<[IP5QqW4A[+627OcDH@i2[p_2)d4j"*"1UVLAZF2_GEI'*RC7F$sq/B37B-.rt7emsp?H#'^H.18Q[*:.!#`lJaGb>iMLlZLF7khXp/:H>)GJLeR!ld&d2!R9Z_--J^na_(Ei]d)rOc\H<IGhjpI6dPCgoFc/]Obe:+?Z5L>VM'G=$V$_nUhMhO9c$,MF*)W`PWu)R'a*5:(ePX$0JsIZH_X5ehj+W4/[B3l7r8RaaCd4g*M/Be_n$:RY1IQPoLA=m;oTl`rr#6pb78['qSr&LAm/,codRK,Y<okF,QH9m^k;;GM)d2D#5+CLBgE<-E[#u)F7kJ\L!Q5$@**OVd5R1ph@@EPuBQildn*q'19(m[09DPe)B#F46iWp`WW]eWN+B0Ji/]?2=A`9Li&0oiY;TRdJ"^FE/t-]L[bN8JTrF-`Q3LOg4%Q(FLjB2$*UHXWH.!F9oTmMgOZ[T)@^6He?m`I=uaK>I.TWM)#E,'>^*&PjI#4&l=QKReY-jhq1W)_]qb>1NSmG"`CmP1)gJX(U%`[dfCXNj5Ntd^@hq/ehn->82bjrl.ptE,$`KNV>JE8-OBn9(X%Lpq[d3q&n#&9mB?@s6C1qhU[Z*-r[%ui[7n6S^=8rHcq;(l~>
+endstream
+endobj
+26 0 obj
+<<
+/Contents 27 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1359
+>>
+stream
+Gat=*9lK&M&A@sBbc,Ot%P(-q,osI/=qjMbh8Et[^!IB<E@ZlLP&f-hrqHt;fs.*/#.<D<Q8lc@mles`6A07qrg#^_cYN=?<sgd=FU^/R.BIIHB"duN+>ferVa(k9AU+V.`NN,KVHF<ES4<nEE=ApV,gI6^,UY=mZ5AORqSRpG(mJEQR`>_-J5DhL&\eaP1!(7_k[c_?_Da(W!+RDY^51i+5.jVQ;IW*4V)a7"AgAmGYB:B!^KTU_+7bnR5F#5pJ33/*Z#G,@#Oibl;_+r&)#fQU%"==Cg$,c.K7b9(pO;J)s'I_or"7Le@/XNje<?/E/-Y"YTqkg\=I*5Xq)CCjCT"Trm/F5q:A-&L?Xrs3[fp40Lj[0%8Q)-(acp20'RF/WP9T_=c*o`Y=HFf@i:;3POTOMMk[1"QYQmLU&4[M??gFCd'lp!9kIKUA#-m>j*>5\861O2.i_Q;2:n0q$7aE)AGYE?10#Ld,B,nUBO&(p.&4aI!*[pWfptCURD+J<%8*R@\Bj`q>>tSn_d&b#D?2aq1dA\T$]n/k6:)X\RTGbBC<Zm,(apFF.pd"O>FYKJQ[44P&?%M?AY6On_1sh.h'&B7[V5Wm?ZHe7K^8u*e*'((qjf22,6e*hBi#+\Ojn45O).PI4-X?&\>HV0:PJmmZi2!>@.H+-+.)#E#A7PkH20s"@GX.!7Q@UPMN[*>9!Hg5MVP*.Tf]gMo9r62N.mUhXWq+XF-p&l<VeLFWRaqrIaj%:l)C5V^3JaeP!jSsA"s0%F;3]4em4jEV"l(&m-sP&f0=#[&mcB8+g&RfZ[bYV*.Z7^UEc-p7):\B&WEt1rmD9q.kUft_UH7L[.sPl1-a?MG8/pV06]VL(Qp-TS*/Lc8>Q(K*1l0u^O!bTlR?4)lP6Lm;TC'$VkQJ?(DXX/tNH9i#)TiUE4EU$V=hV^%S/#s(Kb_RB#Di>N"12s2"a/B=&T<`<GaD&Bp`#4.@S5]_N+4dg(!uWQH[I45>'`)'R7D,*$H02J*XUVo8^A+';@^Pl9u-YVL,KAE#>J5nJ\<SX<UE+ZO/%lG667im2%T?JrJ3-2=H/d.dV5)6_l2Uup#OKn+GX!j0DhELS^;L-:KS<Cd[mW'.!B$>pqtRJ=mTI5]U_e(Yg_g<\sa9Pq-F8=cdMMckLA&%+G0:mX:GQ]Dtbg+47'iTQQ$=mLBZ>*cPju2566!9.43:1,)<5[3;AEb2$N##`u.jH%=VRV6I=i(a*HgZ;uD#:nXM<2nW6-7hfCuOXM^\qSak=c44qZ!%,n,3=hFqf.nGiB#`7sm4WL$ge3I*/WVEOGqT5V/'R5")M<<I_b(^9$$Ag?G$FVs[okP-4o)]^-!j`KI9)~>
+endstream
+endobj
+28 0 obj
+<<
+/Contents 29 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+29 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2297
+>>
+stream
+Gb!Sm968iW'#*[5oI81b_HG*0js\u(*c&AuOn%"'q#Za)#rY?$"R%+2qr?.X`rI4_:fQM6/W8V-\u21lFZ2i7_B2sq0%U*L(@^dZ'I\UQ/Pn_9/7-.gMi5mtKLXH@$A>HN)Z`@b1,?)G]@\74M)\@kJ[CRo/JW4lR*qG>cGAlY(W7F07s8;XQQ-926:^=&SMHq9[.KG#<Pfh'/eqo)9Dp&DCAmX3>+<ASOd$akL2*G7b$(n*o"Xp=OhYmc(@WruPAC?)ZQe/cnGME+_#FG<n)N1(KD1==Gi?BH1u#1hVL\-nfC_%ErdA#oj1f!l&JdU\6G9^af>SAFXGYAn8?ED%\_7kQ3\-@HY*;-M.kf\hF6o9lDgoDC')k.G0giHI!hE!k>"W34;CQ(CG?k)D$M+YBbC=L+\+([He?@AN^l=<^<'<Q2FK,0/Cic)Ickf9DH=&+gE,=E3c+t#[CFq\/pc?-1(sic9>>2V_7kp`1lSQ(^F>6ooV,W+&Z&GE7>`ab6/Xo_HOYmaIeOjBeo%=L[_\7T_pg+h``',f^:/3:]lr6@*8M)ZK8^(QTl,Y8QV$)33r&Xt).6nC)S>7E>>TF*KOpl6`kC'WdP;tkpC)U@5-'5,ROI?E+cdQ2h5&!8!8rU"ZB!Su!;0ciEO#/=<@f^b)hs_qJRWK)MON&K:h<PD%W^Nc5T6rY[;jZBR];=iUl/h,'J(sPpjUi)n$%0Y:dn#KJFM5k`0$g60L2#mG7`5XB>NnL!WcL7R``9tLgU]T]kSCekm`t4j;:/WIACLG_%=]-0bBs"9q_0YQLRnrWWZ+l*ALbQ50XXNlK>69mpJbpq,=4EcipN"Al@+DO_fXPIG9IK_q]*M(+0FNH/jCpP/pS8FGkhZOh$P/+nR_s8gO2YZ/hlb`Nk)g:?S.n2ln$HRjDG&=([mG2YZ(t"c8W\<@lGh4=>sLRYg-[6.ud+YG<qj;?d,h1)*.dmXke)4ceP5]EL!\E"`>>.l&j5U\UF'%CSkV[Vs.Qddp,9C7LT/*@df;6dpuJ81J"jaA9jjCM^fsOE-X\Sb26^M)e3(Jf@ao2`]GTK)['HHac#f0`r3V?UE!6agL=!c<QE>h_982>%b5a'@,(suP$;JdIQ<AKo@1aKr>*^Kf-#Am0l)O3lu2[r&W7o6s4aEIWWDFo$M^Id;Q=3^fnaqr7ifGVaiHa^929[=Qdlj_od011@F;A9;<OG+%uYV'X#ad?5:i9%[g)pD<E)RR=@HEq`ej0rqMfVSlmm9:^@-aTAc(rF'ODrSDGKj\&l3Ec4kS'dXolM^IR\P9)-i]bc6uZT]F(Z*rG8O4:E@>mCdKj,\9rkXb!V:a4((8<'-.l*VQ-]D.!."?'!&RG&*PhcVqR#pM+^o12AS5(XYAj#f`oZfoo;2TJ"`kmp_8b*UPoP/HBm:A(E;uY>]$t>CnIN((9;(2g102E]"7]5TpD;Xn\@VtQYH065R0:7P9$WuL>/J$+C7g:%6Hdt,;%lUJ)GQ02(JR"oL;tC3B-B*>",VsS(g)`nJli^D:!<nG=*"fS*J\YW)#:B51I'X!Jr.\VXDu.rP4SqV^lBB(iHr)\=+n6HFd;Fl!gVfe4RR@+@6;7DU<_WinmqAjBm91s-0<nhG!sM;jEM])r*PX.=#&pU=1okO+^Kg_-`a?.EaH[Pgk*gGk/-IVTZ>"05HsLHU-.[$k/\cE(jBVVaN?;(tjj%`A,aNb>AX_'HKoeW,C1N:IuYk)5=LG\e/9.I-5cfl^o6S0sk+U.-HZ@!Ui#Zp/Q8(L%DWOV[iHXNfhiBO/F&$J.*S>DOgPk%i]M!Du,R\@;$\FL=*Th-5<YRA`*r8#shHcM?-'>Lg1;9<EiUHL.+(hg?QM#"m=,SCboS%BU3Vo/Aa;(eMHk*cC7894UU@7dXs4d#ae'unW0'P0fTtV):#F0fgiM&?s^d*Dm's0?D#)VVI]2h+Jr)n&tGJ@Ct-:C>b$f<K9%X=[n[bCT$T`&bhc&F3n:O)dKco47NJFFZbXRS<2YIhD8s=5J]gJ_`$tVk9pTYjMqK=#45Kj1R)]N0j5u>u,@",(Bcm&4P+?IH,0iDqbi;)@0kt$.V]R"o)Sr52QsZdfKj\5ZBKCGO1%lUYk5,ZXh_lIKbd_M,@kNOQZedZr.:eB$160d]WB%`h'n3^1Q_11WZp[hA%um)M$%MLD_iN?tWE:5[YB;H\J_`Aq+,uWmWW1/lS,ZaL>eP]4PEKmZ=6b_e]lr]PSVlmNgJ^JGj[?qm]h3"6LDAT02dC=>p@&b1[YLcRYWY)Pe_=*WKT!SGaTML]~>
+endstream
+endobj
+xref
+0 30
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000187 00000 n 
+0000000463 00000 n 
+0000004893 00000 n 
+0000005000 00000 n 
+0000005107 00000 n 
+0000005219 00000 n 
+0000005331 00000 n 
+0000005446 00000 n 
+0000005524 00000 n 
+0000005726 00000 n 
+0000008516 00000 n 
+0000008579 00000 n 
+0000008781 00000 n 
+0000017293 00000 n 
+0000017495 00000 n 
+0000018745 00000 n 
+0000018947 00000 n 
+0000021950 00000 n 
+0000022152 00000 n 
+0000029716 00000 n 
+0000029918 00000 n 
+0000036079 00000 n 
+0000036281 00000 n 
+0000039315 00000 n 
+0000039517 00000 n 
+0000040969 00000 n 
+0000041171 00000 n 
+trailer
+<<
+/Size 30
+/Root 1 0 R
+>>
+startxref
+43561
+%%EOF
